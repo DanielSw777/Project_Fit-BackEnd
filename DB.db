@@ -1,0 +1,7 @@
+-- Active: 1701621836017@@localhost@3306@projectfit
+
+
+DROP DATABASE projectFit;
+
+
+CREATE DATABASE projectFit;
